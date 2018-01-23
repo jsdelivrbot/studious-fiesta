@@ -1,2 +1,2 @@
-# CSCI103
-USC Introduction to Programming, C++
+# studious-fiesta
+Modern React with Redux
